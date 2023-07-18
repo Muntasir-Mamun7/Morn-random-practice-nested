@@ -1,0 +1,191 @@
+p { margin-top: 0;
+    margin-bottom: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3px;
+}
+
+.tom-and-jerry-main {
+    width: 310px;
+    box-shadow: 0px 2px 5px rgba(160, 160, 160, 0.543);
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+.tom-and-jerry-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    transition: .2s;
+}
+.tom-and-jerry-image:hover {
+    cursor: pointer;
+    box-shadow: 0px 2px 5px rgba(216, 216, 216, 0.543);
+}
+.div-image {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+
+}
+.div-text {
+    display: inline-block;
+}
+.div-oliver {
+    
+}
+.oliver-text {
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+.oliver-text:hover {
+    cursor: pointer;
+    opacity: .9;
+}
+.the-cat-text {
+    color: rgb(114, 111, 116);
+    font-size: 15px;
+}
+.the-cat-text:hover {
+    cursor: pointer;
+}
+.popular-text {
+    color:rgb(114, 111, 116);
+    font-size: 12px;
+    margin-top: 5px;
+}
+.popular-text:hover {
+    cursor: pointer;
+    
+}
+.follow-button {
+    background-color: rgb(3, 150, 255);
+    border: none;
+    color: white ;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 4px;
+    display: inline-block;
+    transition: .2s;
+
+    
+}
+.follow-button:hover {
+    cursor: pointer;
+    opacity: .8;
+}
+.main-div {
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+.follow-div {
+    width: 100px;
+    display: inline-block;
+
+}
+
+
+.div-profile-image {
+
+
+}
+.div-name-text {
+
+}
+.div-mutual-text {
+    width: 70px;
+    display: inline-block;
+    vertical-align: middle;
+    padding-bottom: 4px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+
+}
+.div-button-add-friend {
+    margin-top: 4px;
+
+}
+.image-profile {
+    width: 120px;
+    height: 120px;
+    border-radius: 1px;
+    object-fit: cover;
+    object-position: top;
+    transition: .2s;
+    
+
+}
+.image-profile:hover {
+    opacity: .9;
+}
+.text-baymax {
+    font-weight: bold;
+    margin-left: 5px;
+    font-size: 10px;
+    margin-bottom: 4px;
+
+}
+.text-mutual {
+    color: rgb(139, 138, 138);
+    font-size: 8px;
+    margin-left: 0px;
+
+}
+
+.mutual-image {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+.div-mutual-image {
+    width: 20px;
+    display: inline-block;
+    padding-left: 5px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+
+.button-add-friend {
+    background-color: rgb(0, 119, 255);
+    border: none;
+    color: white;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 8px;
+    margin-left: 5px;
+    cursor: pointer;
+    transition: .20s;
+}
+.button-add-friend:hover {
+    opacity: .8;
+
+}
+
+.full-div {
+    width: 120px;
+    height: 200px;
+    margin-left: 5px;
+    display: inline-block;
+
+
+    box-shadow: 0px 2px 5px rgba(164, 162, 162, 0.543);
+}
+
+.full-div:hover {
+    box-shadow: 0px 2px 5px rgba(216, 216, 216, 0.543);
+    cursor: pointer;
+    opacity: .9;
+}
+.div1 {
+    width: 800px;
+}
